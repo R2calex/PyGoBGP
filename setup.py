@@ -8,9 +8,9 @@ from setuptools import setup, find_packages
 
 
 requirements = [
-    "grpcio==1.15.0",
-    "grpcio-tools==1.15.0",
-    "googleapis-common-protos==1.5.3",
+    "grpcio==1.67.1",
+    "grpcio-tools==1.67.1",
+    "googleapis-common-protos==1.65.0",
 ]
 
 
